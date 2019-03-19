@@ -1,1 +1,3 @@
 # LogisticRegression_BankNotes
+Logistic Regression to predict authenticity of bank notes.
+Cleaning and Commenting in progress...
